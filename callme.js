@@ -25,8 +25,7 @@ if(x=="1"){xxx="/2018/05/best-learner-driver-insurance.html"}
 if(x=="2"){xxx="/2018/05/cars-with-cheapest-insurance-rates.html"}
 if(x=="3"){xxx="/2018/05/car-insurance-comparison-quote.html"}
 if(x=="4"){xxx="/2018/05/auto-insurance-troy-mi.html"}
-if(x=="5"){xxx="/2018/05/compare-car-insurance.html
-"}a_to_ve[i].href="https://www.compare-car-insurance.ga"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/05/compare-car-insurance.html"}a_to_ve[i].href="https://www.compare-car-insurance.ga"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
